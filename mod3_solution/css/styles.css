@@ -1,0 +1,39 @@
+/********** Base styles **********/
+* {
+  box-sizing: border-box;
+  font-family: Helvetica, Times, serif;
+}
+
+.navbar-default {
+	border-bottom: 2px solid black;
+	background-color: #FABADA;
+}
+
+.menu-title {
+	margin-top:55px;
+	font-size: 55px;
+	top: 100px;
+}
+
+.row {
+	margin:25px;
+}
+
+.col-xs-12 {
+	margin-bottom: 30px;
+	padding-top: 25px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+#chicken {
+	background-color: #AAAA00;
+}
+
+#beef {
+	background-color: #BBCCAA;
+}
+
+#shushi {
+	background-color: #12DD22;
+}
